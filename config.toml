@@ -1,0 +1,13 @@
+baseURL = "https://sandbox.digitalliving.fi/"
+languageCode = "en-us"
+title = "Nexus sandbox environment by Digital Living"
+theme = "hugo-landing-page"
+
+canonifyUrls = "true"
+disableKinds = ["RSS","taxonomy","taxonomyTerm"] # disable hugo's content that we don't need...
+
+googleAnalytics = "" # if needed...
+
+[params]
+    description = "Nexus sandbox"
+    images = [] #add images here as "img/name.ext" (points to s./static/img/) to populate the default og and twitter <meta> attributes -> see ./layouts/partials/head.html
