@@ -1,18 +1,10 @@
----
-title: Privacy Policy
----
+# Privacy Policy 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut id rhoncus est. Nullam sit amet justo nisi. Aliquam elementum iaculis nulla bibendum congue. Integer convallis ut nisi at tincidunt. Sed eu diam ex. Ut efficitur velit ut ultrices semper. Morbi suscipit ut purus a placerat. Cras massa lorem, pretium et nibh in, faucibus fermentum dolor. Nulla lacinia malesuada molestie. Proin et risus turpis. Aenean lacinia, orci at egestas fringilla, sem libero facilisis lectus, ut porta justo ligula a quam. Mauris vulputate purus mauris, eget semper ante rutrum id. Duis vestibulum, turpis at ultricies aliquam, enim dolor lobortis leo, at laoreet elit odio at nunc. Aliquam sit amet erat mi.
+Last updated: July 29, 2021
 
-Cras mattis justo id convallis porta. Pellentesque ullamcorper fringilla odio at pretium. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla mattis erat dui, ut tempor lectus dictum id. Mauris ornare massa a nisi gravida, id ultrices ex cursus. Donec quis porttitor nisl, non viverra dui. Donec nec gravida arcu. Pellentesque dignissim at libero id bibendum. Vivamus pulvinar nibh risus, et egestas odio interdum id. Cras eleifend risus molestie mollis finibus. Aenean tortor elit, accumsan vel fermentum pharetra, molestie ut felis.
+This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-Maecenas pulvinar ultricies dolor, vitae sagittis nunc aliquam non. Cras vitae eros mi. Pellentesque ac orci mi. Ut dignissim tincidunt ex id tincidunt. Aliquam semper felis sed leo sodales scelerisque. Vivamus vitae erat vel tellus condimentum consectetur at ac velit. Mauris massa tortor, cursus sit amet turpis in, lacinia ultricies nulla.
-
-Integer finibus sem sit amet diam luctus, ut posuere enim dapibus. Nunc euismod dignissim dui a maximus. Phasellus pulvinar neque at lorem ultricies suscipit. Maecenas felis erat, ornare eget egestas et, ultricies vitae ante. In convallis quam lectus, sit amet elementum ligula pulvinar ac. Integer sapien ipsum, congue a purus vel, sollicitudin lacinia ligula. Ut varius sit amet lectus quis congue. Ut viverra lectus tellus, a pharetra neque egestas eu. Morbi feugiat, arcu id bibendum vulputate, risus mi finibus enim, sed pulvinar ipsum sem eu risus. Aenean accumsan elementum ipsum, eu porttitor libero auctor at. Duis nec ipsum velit. Aliquam ac ullamcorper nisl. Duis mattis malesuada leo, quis egestas turpis molestie nec. Curabitur dui tortor, volutpat quis varius et, posuere eget augue. Praesent sed pretium dui. Vivamus auctor ex vitae nisl commodo interdum.
-
-Nam non quam vel velit sagittis consequat non vel odio. Phasellus condimentum dictum orci, quis rhoncus lacus hendrerit non. Ut vel nisl lectus. Duis vitae varius enim. Morbi placerat urna sit amet sollicitudin viverra. Vivamus maximus metus ac ornare venenatis. Ut suscipit nec sapien ac fringilla. Phasellus et justo eget odio lacinia feugiat. Nullam laoreet eros a lectus pretium, sed euismod velit tincidunt.
-
-#### Website enhancements ####
+#### Website enhancements 
 
 This website uses the follwing packages from <a href="https://unpkg.com" rel="noopener" target="_blank" title="UNPKG">unpkg.com</a>:
 
@@ -21,6 +13,21 @@ This website uses the follwing packages from <a href="https://unpkg.com" rel="no
 
 Using these packages, personal data may be transmitted.
 
-### Your rights ###
+#### Personal Data
+While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
+- Usage Data
 
-Integer finibus sem sit amet diam luctus, ut posuere enim dapibus. Nunc euismod dignissim dui a maximus. Phasellus pulvinar neque at lorem ultricies suscipit. Maecenas felis erat, ornare eget egestas et, ultricies vitae ante. In convallis quam lectus, sit amet elementum ligula pulvinar ac. Integer sapien ipsum, congue a purus vel, sollicitudin lacinia ligula. Ut varius sit amet lectus quis congue. Ut viverra lectus tellus, a pharetra neque egestas eu. Morbi feugiat, arcu id bibendum vulputate, risus mi finibus enim, sed pulvinar ipsum sem eu risus. Aenean accumsan elementum ipsum, eu porttitor libero auctor at. Duis nec ipsum velit. Aliquam ac ullamcorper nisl. Duis mattis malesuada leo, quis egestas turpis molestie nec. Curabitur dui tortor, volutpat quis varius et, posuere eget augue. Praesent sed pretium dui. Vivamus auctor ex vitae nisl commodo interdum.
+#### Links to Other Websites 
+Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+
+#### Copyright 
+The copyrights and other rights to texts, images and other materials found on this website belong to the producers or registration holders of said materials. The producer / registration holder is responsible for the content it adds to this website. The producer / registration holder represents and warrants that it has the right to add said materials to this website and that the materials do not infringe copyrights or other intellectual rights of third parties.  
+
+#### Images
+Undraw via [undraw.co/illustrations](https://undraw.co/illustrations)
+
+### Contact Us
+If you have any questions about this Privacy Policy, You can contact us:
+
+By email: <support@digitalliving.fi>
+
