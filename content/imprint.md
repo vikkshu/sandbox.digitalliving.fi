@@ -1,5 +1,7 @@
-# Imprint
-
+---
+title: Imprint
+description: Information according to whatever legal requirements apply.
+---
 
 #### Digital Living International Oy 
 
