@@ -1,4 +1,6 @@
-# Privacy Policy 
+---
+title: Privacy Policy
+---
 
 Last updated: July 29, 2021
 
