@@ -1,6 +1,6 @@
 ---
 title: Imprint
-description: Information according to whatever legal requirements apply.
+description: Additional information
 ---
 
 #### Digital Living International Oy 
