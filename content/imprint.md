@@ -7,7 +7,7 @@ description: Additional information
 
 #### Website: <https://digitalliving.fi>
 
-#### Email Address: <support@digitalliving.fi>
+#### Email Address: <contact@digitalliving.fi>
 
 #### HQ Address:
 Fredrikinkatu 34 A 17
