@@ -4,10 +4,8 @@ title: Privacy Policy
 
 Last updated: Aug 31, 2021
 
-This Privacy Policy describes our policies and procedures on the collection, use and disclosure of your information when you use https://sandbox.digitalliving.fi platform and the materials published on it.
+This Privacy Policy describes our policies and procedures on the collection, use and disclosure of your information when you use https://sandbox.digitalliving.fi platform and the materials published on it. By using the website, you agree to the present Privacy Policy. 
 
-### Intellectual property (When becomes applicable)
-Digital Living owns the rights to use the registered trademark "Nexus".
 
 ### Website objectives
 
@@ -55,6 +53,6 @@ Using these packages, personal data may be transmitted.
 
 Undraw via [undraw.co/illustrations](https://undraw.co/illustrations)
 
-### Contact Us
+#### Your Rights
 
-If you have any questions about this Privacy Policy, you can contact us via email: <support@digitalliving.fi>.
+If you have any questions about this Privacy Policy or the data processing, you can contact us via email: <contact@digitalliving.fi>.
